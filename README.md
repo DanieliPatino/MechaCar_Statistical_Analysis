@@ -25,8 +25,11 @@ The total_summary Variance is 62.29. That information shows that the current man
 ![D3_t test](https://user-images.githubusercontent.com/92958939/161637806-9027a09e-244f-4108-a2a4-81026f4e1455.png)
 
 Due to the p-value being 0.06, we do not have enough evidence to reject the null hypothesis.
+
 Lot1 p-value is 1. Due to it being higher than 0.05 we do not have enough evidence to reject the null hypotheses.
+
 Lot2 p-value is 0.60. Due to it being higher than 0.05 we do not have enough evidence to reject the null hypotheses.
+
 Lot3 p-value is 0.04. Due to it being lower than 0.05 we have enough evidence to reject the null hypotheses.
 
 
