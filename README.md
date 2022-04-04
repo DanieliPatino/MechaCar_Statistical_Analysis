@@ -18,7 +18,7 @@
 ![D2_lot_summary](https://user-images.githubusercontent.com/92958939/161637755-8585b492-dc78-4d5f-9e0a-555768f5e3f6.png)
 ![D2_total_summary](https://user-images.githubusercontent.com/92958939/161637765-7d5f9685-ff61-491c-b705-8b36dba4a8c6.png)
 
-The total_summary Variance is 62.29. That information shows that the current manufacturing data meets the design specification because the variance of the suspension coils does not exceed 100 pounds per square inch. Unfortunately Lot3 under lot_summary Variance is 170.29. Due to that variance exceeding 100 it does not meet the design specifications for all manufacturing lots. Lot1 and Lot2 do meet specification with their variance being 0.98 and 7.47 respectfully. 
+The total_summary Variance is 62.29. That information shows that the current manufacturing data meets the design specification because the variance of the suspension coils does not exceed 100 pounds per square inch. Unfortunately Lot3 under lot_summary Variance is 170.29. Due to that variance exceeding 100 it does not meet the design specifications for all manufacturing lots. Lot1 and Lot2 do meet specification with their variance being 0.98 and 7.47 respectively. 
 
 
 ## T-Tests on Suspension Coils
