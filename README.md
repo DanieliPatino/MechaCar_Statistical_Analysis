@@ -32,7 +32,11 @@ Lot3 p-value is 0.04. Due to it being lower than 0.05 we have enough evidence to
 
 ## Study Design: MechaCar vs Competition
 ***Deliverable 4***
+
 With today’s high gas prices, I believe a city or highway fuel efficiency statistical study that can quantify how the MechaCar performs against the competition would benefit a lot of people. 
+
 We would need to know if it’s a null hypothesis that shows no difference in the MerchaCar performance against the competition. Or if its an alternative hypotheses that does indeed show if there is a difference between the two.
+
 I would recommend using the ANOVA statistical test to test the hypotheses because it can take more than one variable.
+
 MPG, vehicle_weight, and vehicle_type are the data that is needed to run the statistical test.
