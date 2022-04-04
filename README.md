@@ -6,7 +6,9 @@
 ![D1_MechaCar](https://user-images.githubusercontent.com/92958939/161637701-5711626d-8abb-453b-95e0-35cc6f3f0b59.png)
 
 •	Vehicle_length and ground_clearance provided a non-random amount of variance to the mpg values in the dataset.
+
 •	The slope of the linear model is not considered to be a zero due to the Multiple R-Squared: 0.72 and Adjusted R-Squared: 0.68
+
 •	This linear model does not predict mpg of MechaCar prototypes effectively due to not enough variables/coefficients included in the analysis. 
 
 
